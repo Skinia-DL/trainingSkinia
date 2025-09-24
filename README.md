@@ -168,5 +168,5 @@ Este proyecto forma parte de un sistema de detección de cáncer de piel utiliza
 
 ---
 
-*Fecha de última actualización: Septiembre 2024*
+*Fecha de última actualización:24 de Septiembre 2025*
 *Versión: 1.0*
