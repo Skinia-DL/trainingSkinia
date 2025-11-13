@@ -45,38 +45,6 @@ Training/
 
 Ejemplo de par: `train_A/HAM_0000118_ISIC_0027419.jpg` y `train_B/HAM_0000118_ISIC_0027419.jpg`.
 
-✅ Resumen del procesamiento (logs relevantes obtenidos durante la ejecución)
-
---- Iniciando procesamiento de HAM10000 ---
-Creando índice de imágenes de HAM10000 (puede tardar un momento)...
-Copiando 10015 imágenes de HAM10000...
---- Procesamiento de HAM10000 finalizado. ---
-
---- Iniciando procesamiento de ISIC 2019 (desde carpetas) ---
-Copiando imágenes de ISIC 2019 (excluyendo SCC)...
-
-Copiadas 867 imágenes de AK -> akiec
-Copiadas 3323 imágenes de BCC -> bcc
-Copiadas 2624 imágenes de BKL -> bkl
-Copiadas 239 imágenes de DF -> df
-Copiadas 4522 imágenes de MEL -> mel
-Copiadas 12875 imágenes de NV -> nv
-Clase 'SCC' omitida.
-Copiadas 253 imágenes de VASC -> vasc
---- Procesamiento de ISIC 2019 finalizado. ---
-
---- ✅ Verificación del Dataset Unificado ---
-Conteo de imágenes por clase en el dataset unificado:
-  - akiec : 1064 imágenes
-  - bcc   : 3323 imágenes
-  - bkl   : 2624 imágenes
-  - df    : 239 imágenes
-  - mel   : 4522 imágenes
-  - nv    : 12875 imágenes
-  - vasc  : 253 imágenes
------------------------------------------
-Total de imágenes: 24900
-
 💻 Instalación y uso
 
 Requisitos mínimos (ejemplo):
