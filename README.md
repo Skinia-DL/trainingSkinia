@@ -86,3 +86,8 @@ Alternativa con 7-Zip (si está instalado):
 
 📅 Fecha de última actualización: 28 de octubre de 2025
 🔖 Versión: 1.0
+
+Pasos para ejecutar EntrenamientoPreliminar1_1:
+en la consola ejecutar este comando:
+pip install -r requirements.txt
+luego ejecutar el notebook Preentrenamiento_v1.0.ipynb
