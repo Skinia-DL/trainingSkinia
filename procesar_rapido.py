@@ -19,7 +19,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 EVOLUTION_MONTHS = 6
 BATCH_SIZE = 50  # Procesa de 50 en 50
 
-# Funciones optimizadas (versión rápida)
+# Funciones optimizadas
 def generate_irregular_mask_fast(img_shape, num_spots=5):
     """Versión rápida de máscaras irregulares"""
     h, w = img_shape[:2]
